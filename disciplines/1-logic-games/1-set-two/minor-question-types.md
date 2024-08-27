@@ -1,0 +1,1 @@
+# Minor Question Types
