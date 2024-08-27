@@ -5,28 +5,26 @@
 ## Guide
 
 #### Basics
-- Compound Learning
+- Smart `==` Simple
 - Directed Thinking
-- S.U.E.
+- Compound Learning
 - Skills & Habits
-- Smart == Simple
 
-#### Procedure
-- Experience
-- Procedure
-- Strategies
-- Understanding
+#### S.U.E. Procedure
+- (S)trategies
+- (U)nderstanding
+- (E)xperience
 
 #### Process
-- Multiple Ideas
 - Reading for Reasoning
-- Reasons & Conclusions
+- Multiple Ideas
 - Understanding Words
+- Reasons & Conclusions
 
 ## Disciplines
 - **Logical Reasoning**
     - Set One
-        - 1 + 1
+        - `1 + 1`
         - Apples & Oranges
         - Flaw Review
         - Flaws
