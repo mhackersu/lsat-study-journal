@@ -1,4 +1,6 @@
-# LSAT Disciplines Guide
+# LSAT Study Guide
+
+#### Study like Wallace.
 
 ## Guide
 
